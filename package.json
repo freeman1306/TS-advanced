@@ -1,0 +1,23 @@
+{
+  "name": "ts-advanced",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freeman1306/TS-advanced.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/freeman1306/TS-advanced/issues"
+  },
+  "homepage": "https://github.com/freeman1306/TS-advanced#readme",
+  "devDependencies": {
+    "typescript": "^4.0.3"
+  }
+}
